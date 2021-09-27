@@ -1,0 +1,13 @@
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\bin\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.exe
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\bin\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.deps.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\bin\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.runtimeconfig.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\bin\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\bin\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\bin\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio4_Calculo_Percentual\Exercicio4_Calculo_Percentual\obj\Debug\netcoreapp3.1\Exercicio4_Calculo_Percentual.genruntimeconfig.cache

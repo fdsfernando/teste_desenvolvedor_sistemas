@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio4_Calculo_Percentual/1.0.0": {
+        "runtime": {
+          "Exercicio4_Calculo_Percentual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio4_Calculo_Percentual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
