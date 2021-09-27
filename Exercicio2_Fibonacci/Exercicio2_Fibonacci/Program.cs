@@ -35,7 +35,7 @@ namespace Exercicio2_Fibonacci
                 numAnterior = numAtual;
                 numAtual = numProximo;
                 numProximo = numAnterior + numAtual;                
-            }while(valor > numAtual);
+            } while (valor > numAtual);
 
             Console.WriteLine("");
             
