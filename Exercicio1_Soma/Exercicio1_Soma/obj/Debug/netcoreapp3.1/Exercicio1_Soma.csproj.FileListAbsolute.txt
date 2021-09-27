@@ -1,0 +1,12 @@
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\bin\Debug\netcoreapp3.1\Exercicio1_Soma.exe
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\bin\Debug\netcoreapp3.1\Exercicio1_Soma.deps.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\bin\Debug\netcoreapp3.1\Exercicio1_Soma.runtimeconfig.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\bin\Debug\netcoreapp3.1\Exercicio1_Soma.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\bin\Debug\netcoreapp3.1\Exercicio1_Soma.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\bin\Debug\netcoreapp3.1\Exercicio1_Soma.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\obj\Debug\netcoreapp3.1\Exercicio1_Soma.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\obj\Debug\netcoreapp3.1\Exercicio1_Soma.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\obj\Debug\netcoreapp3.1\Exercicio1_Soma.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\obj\Debug\netcoreapp3.1\Exercicio1_Soma.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\obj\Debug\netcoreapp3.1\Exercicio1_Soma.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio1_Soma\Exercicio1_Soma\obj\Debug\netcoreapp3.1\Exercicio1_Soma.genruntimeconfig.cache
