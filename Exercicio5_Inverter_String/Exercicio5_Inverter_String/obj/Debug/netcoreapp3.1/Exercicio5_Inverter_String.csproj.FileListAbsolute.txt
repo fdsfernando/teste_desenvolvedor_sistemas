@@ -1,0 +1,13 @@
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\bin\Debug\netcoreapp3.1\Exercicio5_Inverter_String.exe
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\bin\Debug\netcoreapp3.1\Exercicio5_Inverter_String.deps.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\bin\Debug\netcoreapp3.1\Exercicio5_Inverter_String.runtimeconfig.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\bin\Debug\netcoreapp3.1\Exercicio5_Inverter_String.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\bin\Debug\netcoreapp3.1\Exercicio5_Inverter_String.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\bin\Debug\netcoreapp3.1\Exercicio5_Inverter_String.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio5_Inverter_String\Exercicio5_Inverter_String\obj\Debug\netcoreapp3.1\Exercicio5_Inverter_String.genruntimeconfig.cache
