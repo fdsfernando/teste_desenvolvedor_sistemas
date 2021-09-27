@@ -21,8 +21,7 @@ namespace Exercicio2_Fibonacci
             Console.WriteLine("");
 
             //Laco de repeticao para calcular os numeros da sequência Fibonacci
-            for (indice = 0; indice <= valor; indice++)
-            {
+            do{
                 //Mostra na tela o numero atual da sequencia
                 Console.WriteLine("Numero Sequência Fibonacci: {0}", numAtual);
 
@@ -36,7 +35,7 @@ namespace Exercicio2_Fibonacci
                 numAnterior = numAtual;
                 numAtual = numProximo;
                 numProximo = numAnterior + numAtual;                
-            }
+            }while(valor > numAtual);
 
             Console.WriteLine("");
             
