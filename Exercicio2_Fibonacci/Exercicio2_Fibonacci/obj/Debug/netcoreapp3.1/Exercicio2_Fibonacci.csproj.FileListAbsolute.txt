@@ -1,0 +1,13 @@
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\bin\Debug\netcoreapp3.1\Exercicio2_Fibonacci.exe
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\bin\Debug\netcoreapp3.1\Exercicio2_Fibonacci.deps.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\bin\Debug\netcoreapp3.1\Exercicio2_Fibonacci.runtimeconfig.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\bin\Debug\netcoreapp3.1\Exercicio2_Fibonacci.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\bin\Debug\netcoreapp3.1\Exercicio2_Fibonacci.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\bin\Debug\netcoreapp3.1\Exercicio2_Fibonacci.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio2_Fibonacci\Exercicio2_Fibonacci\obj\Debug\netcoreapp3.1\Exercicio2_Fibonacci.genruntimeconfig.cache
