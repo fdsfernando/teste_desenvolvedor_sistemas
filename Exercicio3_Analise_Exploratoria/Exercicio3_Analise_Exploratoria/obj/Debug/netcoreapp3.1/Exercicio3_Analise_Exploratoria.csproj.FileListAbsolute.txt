@@ -1,0 +1,13 @@
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\bin\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.exe
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\bin\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.deps.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\bin\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.runtimeconfig.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\bin\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\bin\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\bin\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.dll
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.pdb
+C:\Users\Fernando\Desktop\TESTE\C#_Code\Exercicio3_Analise_Exploratoria\Exercicio3_Analise_Exploratoria\obj\Debug\netcoreapp3.1\Exercicio3_Analise_Exploratoria.genruntimeconfig.cache
