@@ -17,7 +17,9 @@ namespace Exercicio2_Fibonacci
             Console.WriteLine("..........Sequência Fibonacci..........");
             Console.WriteLine("Digite um numero para verificar se existe na Sequência Fibonacci:");
             valor = Convert.ToInt32(Console.ReadLine());
-
+            
+            //mostra o ultimo valor que foi calculado na sequencia
+            Console.WriteLine("Numero Sequência Fibonacci: {0}", numAtual);
             Console.WriteLine("");
 
             //Laco de repeticao para calcular os numeros da sequência Fibonacci
