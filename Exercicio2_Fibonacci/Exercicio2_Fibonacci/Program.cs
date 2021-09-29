@@ -39,6 +39,8 @@ namespace Exercicio2_Fibonacci
                 numProximo = numAnterior + numAtual;                
             } while (valor >= numAtual);
 
+            //mostra o ultimo valor que foi calculado na sequencia
+            Console.WriteLine("Numero Sequência Fibonacci: {0}", numAtual);
             Console.WriteLine("");
             
             //Informa se o numero digitado existe ou nao na sequencia para o usuario
